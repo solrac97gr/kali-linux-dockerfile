@@ -1,0 +1,7 @@
+#ENV variables
+.env
+env.json
+env.yml
+env
+#Volume
+/volume

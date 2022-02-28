@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  kali-light:
+    image: "kali-light"
+    volumes:
+      - $HOME/Documents/Development/personal/kali-linux/volume:/share
